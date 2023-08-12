@@ -19,7 +19,7 @@ entries:
         generation with factual responses.        
 
     image_path: >-
-      https://github.com/indiaga/Applied-ML-Prototypes/blob/master/catalog-screenshot.png
+      https://raw.githubusercontent.com/indiaga/Applied-ML-Prototypes/master/catalog-screenshot.png
     tags:
       - Chatbot
       - LLM
