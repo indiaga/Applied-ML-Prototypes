@@ -16,7 +16,7 @@ entries:
         generation with factual responses.        
 
     image_path: >-
-      https://raw.githubusercontent.com/cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data/main/images/catalog-screenshot.png
+      https://github.com/indiaga/Applied-ML-Prototypes/blob/master/catalog-screenshot.png
     tags:
       - Chatbot
       - LLM
