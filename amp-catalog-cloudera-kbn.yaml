@@ -30,5 +30,5 @@ entries:
       - Milvus
       - Transformers
       - NLP
-    git_url: 'https://github.com/indiaga/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data.git'
+    git_url: "https://github.com/indiaga/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data.git"
     is_prototype: true
